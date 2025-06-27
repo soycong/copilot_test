@@ -1,0 +1,24 @@
+[Comment based Copilot - Javascript]
+//Create a function that reads image file in the jpg format from the 'images' folder and returns a list of the image file names.
+//Image file extensions are not case sensitive.
+//Use the ES module scope
+
+[Comment based Copilot - Python]
+#Create a function that reads image file in the jpg format from the 'images' folder and returns a list of the image file names.
+#Image file extensions are not case sensitive.
+
+[Develop ToDo App using Copilot Chat]
+You ar a Node.js expert who generate code that is current and in accordance with community best practices.
+
+Please create a simple, three-page Node.js Express web application. The page structure is:
+- Home page
+- About Page
+- ToDo Page
+
+All the pages should be linked via a global navigation toolbar. Please scaffold a /tests directory with Mocha unit tests to verify page routing.
+
+The ToDo page should have a simple ToDo item tracker that allows the user to add, edit, and delete ToDo items. The ToDO items should be persisted in a simple JSON file. Please scaffold a /tests directory with Mocha unit tests to verify the ToDo item tracker.
+
+Please give a me PowerShell commands to create all the scaffolding for the application. Assume we're in the current working directory.
+
+Please give a me bash shell commands to create all the scaffolding for the application. Assume we're in the current working directory.
